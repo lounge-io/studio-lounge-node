@@ -5,7 +5,6 @@
 
 ![gcp hub](https://github.com/ANDLABS-Git/studio-lounge-node/blob/master/server.coffee#L31-L63)
 
-![http://andlabs.eu](http://andlabs.info/pix/android_andlabs_logo.png)
 
 ### run
 
