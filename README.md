@@ -1,8 +1,7 @@
-##  * hAppy Log *   
+
+##  * hAppy Log *   [![Build Status](https://secure.travis-ci.org/ANDLABS-Git/studio-lounge-node.png)](http://travis-ci.org/ANDLABS-Git/studio-lounge-node)
 
 # Studio-Lounge Server-Node
-### This is a open experimental project to Prototype the Lounge Server. 
-We will launch our service soon and open registrations for Game Developers.
 
 ![gcp hub](https://github.com/ANDLABS-Git/studio-lounge-node/blob/master/server.coffee#L31-L63)
 
